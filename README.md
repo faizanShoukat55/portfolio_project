@@ -46,12 +46,18 @@ flutter run -d chrome
 ## 🧑 Author
 
 #### Faizan Shoukat
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Faizan%20Shoukat-blue
 )](https://www.linkedin.com/in/faizan-shoukat-7a104415b/)
+
+[comment]: <> ([![LinkedIn Link]&#40;https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)
+
+[comment]: <> (&#41;]&#40;https://www.linkedin.com/in/faizan-shoukat-7a104415b/&#41;)
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/faizanShoukat55)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Faizan%20Shoukat-blue)](https://github.com/faizanShoukat55)
+
+[comment]: <> ([![GitHub Follow]&#40;https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow&#41;]&#40;https://github.com/faizanShoukat55&#41;)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
