@@ -20,7 +20,7 @@
 Before these steps make sure you have `flutter 3.0`
 
 ```
-git clone https://github.com/mhmzdev/DevFolio
+git clone https://github.com/faizanShoukat55/portfolio_project
 cd DevFolio
 flutter packages get
 flutter config --enable-web
